@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+include/secrets.h
+*.bin
+*.elf
+node_modules/
+.DS_Store
